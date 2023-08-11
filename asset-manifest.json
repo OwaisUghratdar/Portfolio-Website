@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Website/static/css/main.e4bc0f92.css",
+    "main.js": "/Portfolio-Website/static/js/main.1170aa01.js",
+    "static/media/car-bg.png": "/Portfolio-Website/static/media/car-bg.05ea27d2354e6f3276f4.png",
+    "static/media/bitmoji_headshot.png": "/Portfolio-Website/static/media/bitmoji_headshot.27a19c044d2a6c22dd7e.png",
+    "static/media/car_project_bg.jpg": "/Portfolio-Website/static/media/car_project_bg.fcf8d576cd9959d8dc6e.jpg",
+    "static/media/shoppies.JPG": "/Portfolio-Website/static/media/shoppies.9805984e5968020f598f.JPG",
+    "static/media/Typescript.png": "/Portfolio-Website/static/media/Typescript.1e3902edbe4c3f2970d8.png",
+    "static/media/ums.jpg": "/Portfolio-Website/static/media/ums.a9a4cbd02b80e8f96072.jpg",
+    "static/media/react.png": "/Portfolio-Website/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/Portfolio-Website/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/whatsapp.jpg": "/Portfolio-Website/static/media/whatsapp.81cc567ff4bf02659592.jpg",
+    "static/media/mongo.png": "/Portfolio-Website/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/github.png": "/Portfolio-Website/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/logo.png": "/Portfolio-Website/static/media/logo.9012ad63e33fbe107594.png",
+    "static/media/html.png": "/Portfolio-Website/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/Portfolio-Website/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/Java.png": "/Portfolio-Website/static/media/Java.f5dd86c3ef6ef3f85acf.png",
+    "static/media/css.png": "/Portfolio-Website/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/firebase.png": "/Portfolio-Website/static/media/firebase.209703cedf1b1a96bc52.png",
+    "static/media/samaha_icon.JPG": "/Portfolio-Website/static/media/samaha_icon.6a99128ea3a7faa9dad0.JPG",
+    "static/media/javascript.png": "/Portfolio-Website/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/redux.svg": "/Portfolio-Website/static/media/redux.0e4fb1c819ac4c060c92343147d4ccf7.svg",
+    "index.html": "/Portfolio-Website/index.html",
+    "main.e4bc0f92.css.map": "/Portfolio-Website/static/css/main.e4bc0f92.css.map",
+    "main.1170aa01.js.map": "/Portfolio-Website/static/js/main.1170aa01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4bc0f92.css",
+    "static/js/main.1170aa01.js"
+  ]
+}
