@@ -117,6 +117,7 @@ const Navbar = () => {
             <a
               className="flex justify-between items-center w-full text-gray-300"
               href="https://github.com/OwaisUghratdar"
+              target="_blank"
             >
               Github <FaGithub size={30} />
             </a>
