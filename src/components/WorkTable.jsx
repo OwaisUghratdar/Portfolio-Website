@@ -2,7 +2,7 @@ import icon from "../assets/samaha_icon.JPG";
 
 const people = [
   {
-    name: "Software Engineer at Samaha",
+    name: "Software Engineer @ Samaha",
     point1:
       "•	Played a pivotal role in advancing a highly efficient pipeline, resulting in a remarkable 60% reduction in website ",
     point15: (
