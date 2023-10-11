@@ -2,7 +2,7 @@ import icon from "../assets/samaha_icon.JPG";
 
 const people = [
   {
-    name: "Software Engineer @ Samaha",
+    name: "Software Engineer at Samaha",
     point1:
       "•	Played a pivotal role in advancing a highly efficient pipeline, resulting in a remarkable 60% reduction in website ",
     point15: (
@@ -36,27 +36,27 @@ const people = [
     lastSeenDateTime: "2023-01-23T13:23Z",
   },
   {
-    name: "Web-Developer Intern @ Riipen",
+    name: "Application Developer Intern @ Riipen",
     point1:
-      "•	Worked with clients in different capacities to understand their business and technology needs.  ",
+      "•	Designed and developed backend APIs for CRUD operations. Served JSON to frontend.",
     point2:
-      "•	Designed, prototyped, and built web-apps using WordPress, HTML, CSS, JavaScript, React and more.",
+      "•	Wrote unit and integration tests with implemented features to prevent issues, resulting in reduced bugs.",
     point3:
-      "•	Gained experience in web-development, UI design, system automation, web-consulting.",
-    role: "Mar 2022 - Dec 2022",
+      "•	Worked in a Linux environment and learned to navigate large codebases and investigate code changes.",
+    role: "Sep 2022 - Dec 2022",
     imageUrl: require("../assets/riipen_logo.png"),
     lastSeen: "3h ago",
     lastSeenDateTime: "2023-01-23T13:23Z",
   },
   {
-    name: "Web-Developer Intern @ Riipen",
+    name: "Software Developer Intern @ Riipen",
     point1:
       "•	Worked with clients in different capacities to understand their business and technology needs.  ",
     point2:
       "•	Designed, prototyped, and built web-apps using WordPress, HTML, CSS, JavaScript, React and more.",
     point3:
       "•	Gained experience in web-development, UI design, system automation, web-consulting.",
-    role: "Mar 2022 - Dec 2022",
+    role: "Mar 2022 - Aug 2022",
     imageUrl: require("../assets/riipen_logo.png"),
     lastSeen: "3h ago",
     lastSeenDateTime: "2023-01-23T13:23Z",
