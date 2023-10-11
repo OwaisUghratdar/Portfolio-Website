@@ -49,6 +49,19 @@ const people = [
     lastSeenDateTime: "2023-01-23T13:23Z",
   },
   {
+    name: "Web-Developer Intern @ Riipen",
+    point1:
+      "•	Worked with clients in different capacities to understand their business and technology needs.  ",
+    point2:
+      "•	Designed, prototyped, and built web-apps using WordPress, HTML, CSS, JavaScript, React and more.",
+    point3:
+      "•	Gained experience in web-development, UI design, system automation, web-consulting.",
+    role: "Mar 2022 - Dec 2022",
+    imageUrl: require("../assets/riipen_logo.png"),
+    lastSeen: "3h ago",
+    lastSeenDateTime: "2023-01-23T13:23Z",
+  },
+  {
     name: "Coding Curriculum Lead @ Camp Tournesol",
     point1:
       "•	Built a robust coding curriculum which consists of projects and engaging PowerPoints.",
