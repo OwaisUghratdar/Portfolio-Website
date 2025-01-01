@@ -21,8 +21,7 @@ const About = () => {
               I am dedicated to building excellent software solutions that
               improves the lives of those around me. I specialize in front-end
               web-development using modern frameworks and tools with different
-              libraries and languages. I am currently looking for a new position
-              as of <b>September, 2023</b>. Please take a look at my experience
+              libraries and languages. Please take a look at my experience
               and project and see how I can be a great fit for your team!
             </p>
           </div>
