@@ -30,3 +30,11 @@
         hsla(242, 74%, 61%, 0.8)   
     )!important;
 }
+
+p.mt1.truncate {
+    white-space: wrap;
+}
+
+p.text-sm.leading-6.text-white {
+    white-space: nowrap;
+}

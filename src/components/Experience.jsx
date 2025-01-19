@@ -11,9 +11,9 @@ const Experience = () => {
     <div
       id="experience-id"
       name="experience"
-      className="pt-44 w-full md:h-screen text-gray-300 bg-[#0a192f]"
+      className="pt-24 h-auto w-full text-gray-300 bg-[#0a192f]"
     >
-      <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
+      <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-auto">
         <div className="pb-0">
           <p
             name="experience-title"

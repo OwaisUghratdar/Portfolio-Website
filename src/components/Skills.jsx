@@ -12,12 +12,17 @@ import Mongo from "../assets/mongo.png";
 import Redux from "../assets/redux.svg";
 import Typescript from "../assets/Typescript.png";
 import Java from "../assets/Java.png";
+import Docker from "../assets/docker_icon.png";
+import Nextjs from "../assets/nextjs_icon.png";
+import Angular from "../assets/angular_icon.png";
+import Vite from "../assets/vite_icon.svg";
+
 
 const Skills = () => {
   return (
     <div
       name="skills"
-      className="w-full h-screen pt-96 bg-[#0a192f] text-gray-300"
+      className="w-full h-auto pt-20 bg-[#0a192f] text-gray-300"
     >
       {/* Container */}
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
@@ -56,20 +61,36 @@ const Skills = () => {
             <p className="my-4">TYPESCRIPT</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-            <img className="w-20 mx-auto" src={Node} alt="HTML icon" />
-            <p className="my-4">NODE JS</p>
+            <img className="w-20 mx-auto" src={Angular} alt="HTML icon" />
+            <p className="my-4">ANGULAR</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-            <img className="w-20 mx-auto" src={Mongo} alt="HTML icon" />
-            <p className="my-4">MONGO DB</p>
+            <img className="w-20 mx-auto" src={Node} alt="HTML icon" />
+            <p className="my-4">NODE JS</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={Tailwind} alt="HTML icon" />
             <p className="my-4">TAILWIND</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img className="w-20 mx-auto" src={Nextjs} alt="HTML icon" />
+            <p className="my-4">NEXT.JS</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img className="w-20 mx-auto" src={Mongo} alt="HTML icon" />
+            <p className="my-4">MONGO DB</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img className="w-20 mx-auto" src={Docker} alt="HTML icon" />
+            <p className="my-4">DOCKER</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={Redux} alt="HTML icon" />
             <p className="my-4">REDUX</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img className="w-20 mx-auto" src={Vite} alt="HTML icon" />
+            <p className="my-4">VITE</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={Java} alt="HTML icon" />
